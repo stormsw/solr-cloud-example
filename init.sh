@@ -1,2 +1,2 @@
 #!/bin/sh
-mkdir solrdata/solr1 solrdata/solr2 solrdata/solr3
+mkdir -p solrdata/solr1 solrdata/solr2 solrdata/solr3
